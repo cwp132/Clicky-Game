@@ -1,0 +1,74 @@
+[
+    {
+        "id": 1,
+        "name": "audi",
+        "image": "https://hips.hearstapps.com/pop.h-cdn.co/assets/cm/15/05/54cb1e0207ea3_-_audi-rs7-01-1013-de.jpg",
+        "clicked": false
+    },
+    {
+        "id": 2,
+        "name": "mazda",
+        "image": "https://i.etsystatic.com/9634111/r/il/c4748c/1539466676/il_794xN.1539466676_tmfw.jpg",
+        "clicked": false
+    },
+    {
+        "id": 3,
+        "name": "m5",
+        "image": "https://assets.hemmings.com/uimage/66590506-770-0@2X.jpg?rev=1",
+        "clicked": false
+    },
+    {
+        "id": 4,
+        "name": "merc",
+        "image": "https://i.pinimg.com/736x/73/84/ab/7384abeb855ff4e3f42f6f66f46e6875.jpg",
+        "clicked": false
+    },
+    {
+        "id": 5,
+        "name": "chevy",
+        "image": "https://i.pinimg.com/originals/5b/5b/65/5b5b654a47e584b82182f3804ff66035.jpg",
+        "clicked": false
+    },
+    {
+        "id": 6,
+        "name": "e30",
+        "image": "https://www.driftshop.com/media/catalog/product/0/7/5/8/7/4/large-pandeme301vx.jpg",
+        "clicked": false
+    },
+    {
+        "id": 7,
+        "name": "jag",
+        "image": "https://imgd.aeplcdn.com/600x600/cw/ec/33829/Jaguar-FPace-Exterior-124250.jpg?wm=0",
+        "clicked": false
+    },
+    {
+        "id": 8,
+        "name": "nissan",
+        "image": "https://di735fsgy6skn.cloudfront.net/media/image/cache/340x/n/i/nissan-angle-11.9.18.jpg",
+        "clicked": false
+    },
+    {
+        "id": 9,
+        "name": "honda",
+        "image": "https://pixl.varagesale.com/http://s3.amazonaws.com/hopshop-image-store-production/131923201/e82326864982b5e8dc1b33ba9a6df29b.jpg?_ver=large_uploader_thumbnail&w=640&h=640&fit=crop&s=e97c5295131badf39e235e06d5bbecca",
+        "clicked": false
+    },
+    {
+        "id": 10,
+        "name": "lambo",
+        "image": "https://cdn.vox-cdn.com/thumbor/D5B9Vy2UdPFjc01cZd9dGVUkxp8=/1400x1400/filters:format(jpeg)/cdn.vox-cdn.com/uploads/chorus_asset/file/9807873/493264.jpg",
+        "clicked": false
+    },
+    {
+        "id": 11,
+        "name": "ford",
+        "image": "https://hum3d.com/wp-content/uploads/Ford/436_Ford_Mustang_Mk6f_coupe_Shelby_GT500_2020/Ford_Mustang_Mk6f_coupe_Shelby_GT500_2020_600_0001.jpg",
+        "clicked": false
+    },
+    {
+        "id": 12,
+        "name": "volk",
+        "image": "https://static.turbosquid.com/Preview/2014/05/21__02_28_59/VolkswagenGolfR2013_2.jpga5ddfe5a-0160-4666-8820-5b161402c123Default.jpg",
+        "clicked": false
+    }
+]
